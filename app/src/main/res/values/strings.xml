@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="percent">%</string>
+    <string name="c">C</string>
+    <string name="_7">7</string>
+    <string name="division">/</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="mul">x</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="sub">-</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="add">+</string>
+    <string name="inverse">+/-</string>
+    <string name="_0">0</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+    <string name="_123_x_4">123 x 4 =</string>
+    <string name="_492">492</string>
+
+</resources>
